@@ -11,13 +11,12 @@ Here it is similar to RKE where it is used for locking and unlocking of automobi
 |HR02|alarm status|Implemented|
 |HR03|Battery information|Implemented|
 |HR04|locking and unlocking(Door status)|Implemented|
+|HR05|Radio and music system status|Not Implemented|
 
 ## Low Level Requirements
 |ID|Description|Status|
 |--|-----------|------|
-|LR01||Implemented|
-|LR02||Implemented|
-|LR03||Not implemented|
+
 # SWOT
 ![swot analysis](./m32.jpg)
 # 4W's & 1H
