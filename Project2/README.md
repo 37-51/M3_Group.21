@@ -18,9 +18,9 @@ Here it is similar to RKE where it is used for locking and unlocking of automobi
 |--|-----------|------|
 |LR01|User can select required action either locking or unlocking|Implemented|
 |LR02|Vehicle Status |Implemented|
-|LR03|Fuel status|Not implemented|
+|LR03|Pressure status|Not implemented|
 # SWOT
-![swot analysis](./m32.jpg)
+![swot analysis](./m35.jpg)
 # 4W's & 1H
-![4w and 1h](./m33.jpg)     
+![4w and 1h](./m34.jpg)     
         
