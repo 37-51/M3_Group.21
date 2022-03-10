@@ -6,7 +6,21 @@ The term far off keyless framework (RKS), likewise called keyless section or dis
   Now a days as we are noticing that many of the automobiles work on this framework it is widely used for remotely lock or unlock vehicles as earlier many of the car manufacturers have gone through this process but at present even many motor vehicles following this framework to keep their automobiles secured.Actually the principle behind this is RKE  transmission requires two parts - a transmitter and a recipient. Transmitter - RKE key dandy, other ID gadget with RKE coordinate Recipient - Body Control ECU, other ECU with coordinated RKE.It works by communicating radio waves on a specific recurrence unidirectionally.RKE frameworks execute encryption and moving code calculations to forestall vehicle criminals from blocking and ridiculing the messages.Typical RKE capacities are:Print lock - (Blue switch on-All driven on simultaneously),     Print open - (Blue switch press twice All begun simultaneously),Print caution enactment/deactivation - (Blue switch press multiple times-All drove on in clockwise way),Print approach light - (Blue switch press multiple times-All drove on in enemy of clockwise way).This is the modern solution.
 # Requirements
 ## High Level Requirements
+|ID|Descrption|Status|
+|--|----------|------|
+|HR01|User can unlock and lock the automobile|Implemented|
+|HR01|offering simple addressing capabilities that give each
+system a unique identity|Implemented|
+|HR03|Secure systems encrypt a portion of the digital data stream before
+sending it to the transmitter|Implemented|
+|HR02|Lasts for decades or so|Not implemented|
 
+## Low Level Requirements
+|ID|Description|Status|
+|--|-----------|------|
+|LR01|User can select required action either locking or unlocking|Implemented|
+|LR02|Can be repairable |Implemented|
+|LR03|Can used for long distance|Not implemented|
         
         
         
