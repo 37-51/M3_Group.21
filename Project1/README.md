@@ -1,5 +1,5 @@
 # Problem Statement
-As many of use know there were lot of thefts happening in recent times in automobiles either the vehicle or personal things so here is the solution where we can unlock our automobiles with RKE.
+As many of us know there were lot of thefts happening in recent times in automobiles either the vehicle or personal things so here is the solution where we can unlock our automobiles with RKE.
 # Introduction
 The term far off keyless framework (RKS), likewise called keyless section or distant focal locking, alludes to a lock that involves an electronic controller as a key which is enacted by a handheld gadget or naturally by nearness. Broadly utilized in vehicles, a RKS fills the roles of a standard vehicle key without actual contact.
 # Description
