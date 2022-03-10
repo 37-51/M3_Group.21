@@ -11,7 +11,10 @@ The term far off keyless framework (RKS), likewise called keyless section or dis
 |HR01|User can unlock and lock the automobile|Implemented|
 |HR02|offering simple addressing capabilities that give each system a unique identity|Implemented|
 |HR03|Secure systems encrypt a portion of the digital data stream before sending it to the transmitter|Implemented|
-|HR04|Lasts for decades or so|Not implemented|
+|HR04|Locking of door|Implemented|
+|HR05|Unlocking of door|Implemented|
+|HR06|Lasts for decades or so|Not implemented|
+
 
 ## Low Level Requirements
 |ID|Description|Status|
