@@ -19,6 +19,7 @@ The term far off keyless framework (RKS), likewise called keyless section or dis
 |LR01|User can select required action either locking or unlocking|Implemented|
 |LR02|Can be repairable |Implemented|
 |LR03|Can used for long distance|Not implemented|
-        
+# SWOT
+
         
         
